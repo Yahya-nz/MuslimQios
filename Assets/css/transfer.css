@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700|Roboto:400,500,700');
+body
+{
+    font-family: 'Nunito Sans', sans-serif;  
+}
+.atas
+{
+    margin-top: 15px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.atas img
+{
+    margin-left: -0.5%;
+}
+.konten
+{   
+    margin-top: 35px;
+    height: 250px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+#timer .countdown-wrapper {
+    margin: 0 auto;
+}
+#timer #countdown {
+    text-align: center;
+    color: #eee;
+    text-shadow: 1px 1px 5px black;
+    padding: 40px 0;
+}
+#timer .countdown-wrapper #countdown .timer {
+    margin: 10px;
+    padding: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#timer .col-md-4.countdown-wrapper #countdown .timer {
+    margin-right: 10px;
+    padding: 20px;
+    font-size: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#hour, #min,
+{
+    font-size: 20px;
+    font-family: 'roboto',sans-serif;
+}
+
+#footer{
+    height: 100%;
+}

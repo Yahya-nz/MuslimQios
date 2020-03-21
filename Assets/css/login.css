@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700|Roboto:400,500,700');
+body
+{
+    font-family: 'Nunito Sans', sans-serif;
+    background:url('../img/login/bg.png');
+    background-size: cover;
+}
+.login-from {
+    margin-top: 50px;
+    border: 1px solid #ddd;
+}
+.login-from h4 {
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.login-from p 
+{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: #636363;
+    font-size: 14px;
+}
+.login-from
+{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.vector
+{
+    height: 250px;
+    position: relative;
+margin-left: -320px;
+margin-bottom: -300px;
+margin-top: -76px;
+}
+.form-control{
+    border-radius: 20px;
+    width: 300px;    
+}
+.login
+{
+    color: #fff;
+    width: 300px;
+    border-radius: 20px;
+    background-color: #00C09D;
+    border-color: #00C09D;
+    transition-duration: 0.5s;
+    box-shadow: 0px 4px 20px rgba(0, 192, 157, 0.5);
+}
+.login:hover{
+    border:1px solid #00C09D;
+    background: #009b7e;
+    transition-duration: 0.3s; 
+}
+.login p a
+{
+    font-size: 18px;
+}
+
+.daftar{
+    width: 100%;
+    height: 100%;
+    padding: 15px;
+    background-color: #00C09D;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.daftar legend 
+{    color:#00C09D;
+    width: 57px;
+    height: 57px;
+    background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(0, 192, 157, 0.5);
+}
+.daftar a
+{
+    font-size: 18px;
+    line-height: 54px;
+}
+.daftar p
+{
+    color: #FFFFFF;
+    font-size: 14px;
+}
+.sosmed a{
+    font-family: 'Nunito Sans', sans-serif;
+    color:#00C09D;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    line-height: 45px;
+}
+form
+{
+    height: 220px;
+}
+.no-padding
+{
+    padding: 0 !important;
+}
+.sosmed i
+{
+    font-size: 25px;
+}
+.klik
+{
+    font-weight: bold;
+    color: black;
+}
+.sosmed :hover
+{
+    color: white;
+    background: #00C09D;
+    transition-duration: 0.5s;
+}
+.form-group input
+{
+    width: 72%;
+}
+.icon 
+{
+    float: left;
+    margin-left: 40px;
+    margin-top: 8px;
+    margin-right: -25px;
+    font-size: 20px;
+}
+.iconkey
+{
+    float: left;
+    margin-left: 40px;
+    margin-top: 8px;
+    margin-right: -25px;
+    font-size: 20px;
+    
+}
